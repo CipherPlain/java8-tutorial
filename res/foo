@@ -4,3 +4,8 @@ test push!
 test cherry-pick-1
 test cherry-pick-2
 test cherry-pick-3
+
+
+test rebase 1
+
+test rebase 2
