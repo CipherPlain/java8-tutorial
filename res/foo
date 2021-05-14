@@ -13,3 +13,6 @@ test rebase 2
 test rebase 3
 
 test fuck
+
+
+test: dev-test1
